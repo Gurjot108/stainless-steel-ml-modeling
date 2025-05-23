@@ -31,10 +31,7 @@ Implemented and benchmarked six regression algorithms:
 ```
 stress-strain-prediction/
 ├── data/                      # Raw and processed data files
-├── notebooks/                 # Jupyter notebooks for EDA, modeling
-├── models/                    # Trained model files
 ├── src/                       # Source code (data loading, ML pipeline)
-├── results/                   # Model outputs, plots, metrics
 ├── README.md                  # Project overview
 ├── requirements.txt           # Python dependencies
 └── LICENSE
